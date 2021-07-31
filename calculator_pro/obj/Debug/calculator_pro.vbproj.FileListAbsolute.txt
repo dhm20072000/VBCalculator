@@ -1,0 +1,11 @@
+C:\Users\dhm20\Desktop\Udemy\VB.Net\Section5\calculator_pro_sn\calculator_pro\bin\Debug\calculator_pro.exe.config
+C:\Users\dhm20\Desktop\Udemy\VB.Net\Section5\calculator_pro_sn\calculator_pro\bin\Debug\calculator_pro.exe
+C:\Users\dhm20\Desktop\Udemy\VB.Net\Section5\calculator_pro_sn\calculator_pro\bin\Debug\calculator_pro.pdb
+C:\Users\dhm20\Desktop\Udemy\VB.Net\Section5\calculator_pro_sn\calculator_pro\bin\Debug\calculator_pro.xml
+C:\Users\dhm20\Desktop\Udemy\VB.Net\Section5\calculator_pro_sn\calculator_pro\obj\Debug\calculator_pro.Form1.resources
+C:\Users\dhm20\Desktop\Udemy\VB.Net\Section5\calculator_pro_sn\calculator_pro\obj\Debug\calculator_pro.Resources.resources
+C:\Users\dhm20\Desktop\Udemy\VB.Net\Section5\calculator_pro_sn\calculator_pro\obj\Debug\calculator_pro.vbproj.GenerateResource.cache
+C:\Users\dhm20\Desktop\Udemy\VB.Net\Section5\calculator_pro_sn\calculator_pro\obj\Debug\calculator_pro.vbproj.CoreCompileInputs.cache
+C:\Users\dhm20\Desktop\Udemy\VB.Net\Section5\calculator_pro_sn\calculator_pro\obj\Debug\calculator_pro.exe
+C:\Users\dhm20\Desktop\Udemy\VB.Net\Section5\calculator_pro_sn\calculator_pro\obj\Debug\calculator_pro.xml
+C:\Users\dhm20\Desktop\Udemy\VB.Net\Section5\calculator_pro_sn\calculator_pro\obj\Debug\calculator_pro.pdb
